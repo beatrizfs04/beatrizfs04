@@ -14,5 +14,5 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=beatrizfs04&theme=dracula&no-frame=false&no-bg=true&margin-w=1)
 
-## 🔝 Top Contributed Repository
-![](https://github-contributor-stats.vercel.app/api?username=beatrizfs04&limit=20&theme=dark&combine_all_yearly_contributions=true)
+[//]: <> (## 🔝 Top Contributed Repository)
+[//]: <> (![](https://github-contributor-stats.vercel.app/api?username=beatrizfs04&limit=20&theme=dark&combine_all_yearly_contributions=true)
