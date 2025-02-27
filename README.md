@@ -22,4 +22,4 @@
 ![](https://github-profile-trophy.vercel.app/?username=beatrizfs04&theme=algolia)
 
 ## 🔝 Top Contributed Repository
-![](https://github-contributor-stats.vercel.app/api?username=beatrizfs04)
+![](https://github-contributor-stats.vercel.app/api?username=beatrizfs04&hide=B&theme=default)
