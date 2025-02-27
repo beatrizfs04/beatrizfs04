@@ -19,8 +19,8 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=beatrizfs04&theme=algolia&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=beatrizfs04&theme=angolia)
+![](https://github-profile-trophy.vercel.app/?username=beatrizfs04&theme=algolia)
 
-[//]: <> (## 🔝 Top Contributed Repository)
-[//]: <> "![](https://github-contributor-stats.vercel.app/api?username=beatrizfs04&limit=20&theme=dark&combine_all_yearly_contributions=true)"
+## 🔝 Top Contributed Repository
+![](https://github-contributor-stats.vercel.app/api?username=beatrizfs04&limit=20&theme=dark&combine_all_yearly_contributions=true)
 
