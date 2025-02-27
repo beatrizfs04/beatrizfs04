@@ -8,7 +8,7 @@
 [![My Skills](https://skillicons.dev/icons?i=java,javascript,css,html,mongodb,mysql,illustrator,figma&theme=light)](https://skillicons.dev)
 
 ### Intermediate 
-[![My Skills](https://skillicons.dev/icons?i=php,python,express,flutter,dart,firebase,illustrator,photoshop,figma&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,python,express,flutter,dart,firebase,photoshop,figma&theme=light)](https://skillicons.dev)
 
 ### Beginner 
 [![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,django,blender,unity&theme=light)](https://skillicons.dev)
