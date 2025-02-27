@@ -18,4 +18,4 @@
 [//]: <> "![](https://github-contributor-stats.vercel.app/api?username=beatrizfs04&limit=20&theme=dark&combine_all_yearly_contributions=true)"
 
 ## Test
-[![My Skills](https://skillicons.dev/icons?i=java,javascript,php,python,css3,html5,express,flutter,dart,mongodb,mysql,docker,kubernetes,firebase,django,illustrator,photoshop,blender,figma,unity,linux&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,javascript,php,python,css,html,express,flutter,dart,mongodb,mysql,docker,kubernetes,firebase,django,illustrator,photoshop,blender,figma,unity,linux&theme=light)](https://skillicons.dev)
