@@ -1,7 +1,7 @@
-### Hi there, I'm Beatriz Santos 
+# Beatriz Santos 
 
-## 👩‍🎓 Degrees:
-- Degree in Informática Web, Móvel e na Nuvem at the University of Beira Interior (finalist) 
+## 👩‍🎓 Cursos:
+- Licenciatura em Informática Web, Móvel e na Nuvem na Universidade da Beira Interior (finalista) 
 
 ## 💻 Knowledge:
 ### Advanced
