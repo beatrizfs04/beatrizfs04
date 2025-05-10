@@ -10,7 +10,7 @@
 ### Intermédio
 [![My Skills](https://skillicons.dev/icons?i=php,python,express,flutter,dart,firebase,photoshop&theme=light)](https://skillicons.dev)
 
-### A Começar
+### Iniciante
 [![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,django,blender,unity,unreal&theme=light)](https://skillicons.dev)
 
 ## 📊 Estatisticas do GitHub:
