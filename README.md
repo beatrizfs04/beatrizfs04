@@ -1,7 +1,7 @@
 # Beatriz Santos 
 
 ## 👩‍🎓 Cursos:
-- Licenciatura em Informática Web, Móvel e na Nuvem na Universidade da Beira Interior (finalista) 
+- Licenciatura em Informática Web, Móvel e na Nuvem na Universidade da Beira Interior 
 
 ## 💻 Conhecimento:
 ### Avançado
