@@ -5,10 +5,10 @@
 
 ## 💻 Conhecimento:
 ### Avançado
-[![My Skills](https://skillicons.dev/icons?i=java,javascript,css,html,mongodb,mysql,illustrator,figma&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,javascript,css,html,mongodb,mysql,python,express&theme=light)](https://skillicons.dev)
 
 ### Intermédio
-[![My Skills](https://skillicons.dev/icons?i=php,python,express,flutter,dart,firebase,photoshop&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,flutter,dart,firebase,photoshop,illustrator,figma&theme=light)](https://skillicons.dev)
 
 ### Iniciante
 [![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,django,blender,unity,unreal&theme=light)](https://skillicons.dev)
