@@ -2,6 +2,7 @@
 
 ## 👩‍🎓 Cursos:
 - Licenciatura em Informática Web, Móvel e na Nuvem na Universidade da Beira Interior 
+- Mestrado em Desenvolcimento de Jogos Digitais (ainda a realizar)
 
 ## 💻 Conhecimento:
 ### Avançado
