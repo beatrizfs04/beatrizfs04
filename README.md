@@ -1,13 +1,13 @@
 # Beatriz Santos 
 
-## 👩‍🎓 Cursos:
+## 👩‍🎓 Cursos
 - Licenciatura em Informática Web, Móvel e na Nuvem na Universidade da Beira Interior 
 - Mestrado em Desenvolcimento de Jogos Digitais (ainda a realizar)
 
-## 💻 Conhecimento:
+## 💻 Conhecimento
 [![My Skills](https://skillicons.dev/icons?i=java,javascript,css,html,mongodb,mysql,python,express,github&theme=light)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=php,flutter,dart,firebase,photoshop,illustrator,figma,idea&theme=light)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,django,blender,unity,unreal,cs&theme=light)](https://skillicons.dev)
 
-## 📊 Estatisticas do GitHub:
+## 📊 Estatisticas do GitHub
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=beatrizfs04&theme=algolia&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
