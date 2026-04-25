@@ -5,13 +5,8 @@
 - Mestrado em Desenvolcimento de Jogos Digitais (ainda a realizar)
 
 ## 💻 Conhecimento:
-### Avançado
 [![My Skills](https://skillicons.dev/icons?i=java,javascript,css,html,mongodb,mysql,python,express,github&theme=light)](https://skillicons.dev)
-
-### Intermédio
 [![My Skills](https://skillicons.dev/icons?i=php,flutter,dart,firebase,photoshop,illustrator,figma,idea&theme=light)](https://skillicons.dev)
-
-### Iniciante
 [![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,django,blender,unity,unreal,cs&theme=light)](https://skillicons.dev)
 
 ## 📊 Estatisticas do GitHub:
